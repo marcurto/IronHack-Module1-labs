@@ -1,4 +1,4 @@
-### IronHack Labs | Module 1
+# IronHack Labs | Module 1
 
 Practices done during the Module 1 of Web Development Bootcamp at IronHack.
 
@@ -24,6 +24,8 @@ In Module 1 we learned the fundations of HTML and CSS basics, responsive web des
 - *Bootstrap Cloning Revera*: Cloning Revera web page using HTML and CSS with Bootstrap.
 
 
+
+------
 
 ### Associated project
 
