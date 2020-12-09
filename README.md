@@ -20,7 +20,7 @@ In Module 1 we learned the fundations of HTML and CSS basics, responsive web des
 - *CSS Spotify clone*: Cloning Spotify web page using HTML and CSS with Flexbox.
 - *JavaScript Vikings*: Simulation of a battle between Vikings and Saxons using advanced JavaScript, classes and inheritance and using a test suite.
 - *JavaScript Koans*: Practicing on testing and debugging.
-- *DOM Ironhack Cart*: Practicing on DOM manipulation 
+- *DOM Ironhack Cart*: Practicing on DOM manipulation.
 - *Bootstrap Cloning Revera*: Cloning Revera web page using HTML and CSS with Bootstrap.
 
 
